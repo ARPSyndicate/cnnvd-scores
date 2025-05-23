@@ -1,138 +1,138 @@
 
-# CNNVD Scores
-## 适用于 CNNVD 的 VEDAS 分数聚合器
+# BDU Scores
+## Бесплатный рейтинг трендовых БДУ уязвимостей по версии VEDAS
 
-### 数据提供者
-| 分数 | 维护者 | 目的 | 覆盖范围 | 归因 | 频率 |
+### Поставщики данных
+| счёт | cопровождающий | цель | покрытие | определение | частота |
 | ----- | ---------- | ------- | -------- | ----------- | --------- |
-| [漏洞和利用数据聚合系统 (VEDAS)](https://vedas.arpsyndicate.io) | [A.R.P. Syndicate](https://www.arpsyndicate.io) | 当前受欢迎程度的估计 | 50多个标识符 ([CVE](https://github.com/ARPSyndicate/cve-scores), [CNNVD](https://github.com/ARPSyndicate/cnnvd-scores), [BDU](https://github.com/ARPSyndicate/bdu-scores), 等等) | 来自 [Exploit Observer](https://www.exploit.observer) 的开源情报 (OSINT) | 6-8小时 |
+| [Система сбора данных об уязвимостях и эксплойтах (VEDAS)](https://vedas.arpsyndicate.io) | [A.R.P. Syndicate](https://www.arpsyndicate.io) | Оценка нынешней популярности | Более 50 идентификаторов ([CVE](https://github.com/ARPSyndicate/cve-scores), [CNNVD](https://github.com/ARPSyndicate/cnnvd-scores), [BDU](https://github.com/ARPSyndicate/bdu-scores) и т.д.) | Аналитические данные с открытым исходным кодом (OSINT), полученные от [Exploit Observer](https://www.exploit.observer) | 6-8 часов |
 
 
 
-<h3>按 VEDAS 评分排名前 25 位的 CNNVD</h3>
+<h3>Топ-25 БДУ по версии VEDAS</h3>
 
 <table>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201905-1025'>CNNVD-201905-1025</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202001-679'>CNNVD-202001-679</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201905-1026'>CNNVD-201905-1026</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202105-124'>CNNVD-202105-124</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201907-672'>CNNVD-201907-672</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2019-02752'>BDU:2019-02752</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2019-02981'>BDU:2019-02981</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2020-00538'>BDU:2020-00538</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2019-02768'>BDU:2019-02768</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-01377'>BDU:2015-01377</a></td>
   </tr>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201003-072'>CNNVD-201003-072</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-200905-242'>CNNVD-200905-242</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201003-054'>CNNVD-201003-054</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-200911-069'>CNNVD-200911-069</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201203-431'>CNNVD-201203-431</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-07481'>BDU:2015-07481</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-05264'>BDU:2015-05264</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-07480'>BDU:2015-07480</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-09682'>BDU:2015-09682</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-05272'>BDU:2015-05272</a></td>
   </tr>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-200906-054'>CNNVD-200906-054</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201111-211'>CNNVD-201111-211</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201011-186'>CNNVD-201011-186</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201109-061'>CNNVD-201109-061</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201008-180'>CNNVD-201008-180</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-05263'>BDU:2015-05263</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-05269'>BDU:2015-05269</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-05279'>BDU:2015-05279</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-04271'>BDU:2015-04271</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-05274'>BDU:2015-05274</a></td>
   </tr>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201305-110'>CNNVD-201305-110</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202103-1619'>CNNVD-202103-1619</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202103-1642'>CNNVD-202103-1642</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202103-1634'>CNNVD-202103-1634</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202103-1630'>CNNVD-202103-1630</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-08542'>BDU:2015-08542</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-05266'>BDU:2015-05266</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-05277'>BDU:2015-05277</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-05265'>BDU:2015-05265</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-05271'>BDU:2015-05271</a></td>
   </tr>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202103-1633'>CNNVD-202103-1633</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202103-1635'>CNNVD-202103-1635</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202103-1631'>CNNVD-202103-1631</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202103-1637'>CNNVD-202103-1637</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201709-176'>CNNVD-201709-176</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-05278'>BDU:2015-05278</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-05273'>BDU:2015-05273</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-05268'>BDU:2015-05268</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-01468'>BDU:2015-01468</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-05276'>BDU:2015-05276</a></td>
   </tr>
 </table>
 
 
-<h3>获得 VEDAS 积分的前 25 名 CNNVD</h3>
+<h3>Топ-25 БДУ, набравших очки в VEDAS</h3>
 
 <table>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202504-998'>CNNVD-202504-998</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202308-773'>CNNVD-202308-773</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202205-2540'>CNNVD-202205-2540</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202205-2539'>CNNVD-202205-2539</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202404-3132'>CNNVD-202404-3132</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2025-04855'>BDU:2025-04855</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2025-04588'>BDU:2025-04588</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2025-05274'>BDU:2025-05274</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2025-05356'>BDU:2025-05356</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2025-05354'>BDU:2025-05354</a></td>
   </tr>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202404-3134'>CNNVD-202404-3134</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202404-1598'>CNNVD-202404-1598</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202404-3091'>CNNVD-202404-3091</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202409-1565'>CNNVD-202409-1565</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202409-1574'>CNNVD-202409-1574</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2025-04768'>BDU:2025-04768</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2025-05357'>BDU:2025-05357</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-05612'>BDU:2015-05612</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-05588'>BDU:2015-05588</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-05626'>BDU:2015-05626</a></td>
   </tr>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202409-1591'>CNNVD-202409-1591</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202305-077'>CNNVD-202305-077</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202301-084'>CNNVD-202301-084</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202404-3543'>CNNVD-202404-3543</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202404-2735'>CNNVD-202404-2735</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-05572'>BDU:2015-05572</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-04364'>BDU:2015-04364</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-05616'>BDU:2015-05616</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-05628'>BDU:2015-05628</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-05568'>BDU:2015-05568</a></td>
   </tr>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202409-1586'>CNNVD-202409-1586</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202405-3106'>CNNVD-202405-3106</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202405-3099'>CNNVD-202405-3099</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202411-165'>CNNVD-202411-165</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202210-2406'>CNNVD-202210-2406</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-05551'>BDU:2015-05551</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-05553'>BDU:2015-05553</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-05600'>BDU:2015-05600</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-05633'>BDU:2015-05633</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-05642'>BDU:2015-05642</a></td>
   </tr>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202211-2691'>CNNVD-202211-2691</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202411-187'>CNNVD-202411-187</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202212-1800'>CNNVD-202212-1800</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202409-1583'>CNNVD-202409-1583</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202410-1623'>CNNVD-202410-1623</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-05602'>BDU:2015-05602</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-05548'>BDU:2015-05548</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-05604'>BDU:2015-05604</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-05549'>BDU:2015-05549</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-05556'>BDU:2015-05556</a></td>
   </tr>
 </table>
 
 
-<h3>失去 VEDAS 分数的前 25 位 CNNVD</h3>
+<h3>Топ-25 БДУ, потерявших балл по VEDAS</h3>
 
 <table>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201303-064'>CNNVD-201303-064</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201906-540'>CNNVD-201906-540</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201911-624'>CNNVD-201911-624</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201302-007'>CNNVD-201302-007</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201303-499'>CNNVD-201303-499</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2025-05368'>BDU:2025-05368</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2025-02808'>BDU:2025-02808</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2025-02806'>BDU:2025-02806</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-10481'>BDU:2015-10481</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-01465'>BDU:2015-01465</a></td>
   </tr>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201305-244'>CNNVD-201305-244</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201302-336'>CNNVD-201302-336</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201312-103'>CNNVD-201312-103</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201312-111'>CNNVD-201312-111</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201312-109'>CNNVD-201312-109</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2025-05059'>BDU:2025-05059</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-06475'>BDU:2015-06475</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2019-02254'>BDU:2019-02254</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2017-01478'>BDU:2017-01478</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2019-03706'>BDU:2019-03706</a></td>
   </tr>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201312-113'>CNNVD-201312-113</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201301-504'>CNNVD-201301-504</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201302-461'>CNNVD-201302-461</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201302-471'>CNNVD-201302-471</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201306-401'>CNNVD-201306-401</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2019-02497'>BDU:2019-02497</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-10327'>BDU:2015-10327</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2024-05772'>BDU:2024-05772</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-11366'>BDU:2015-11366</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2024-02973'>BDU:2024-02973</a></td>
   </tr>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201301-329'>CNNVD-201301-329</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201301-295'>CNNVD-201301-295</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202310-1317'>CNNVD-202310-1317</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202501-4190'>CNNVD-202501-4190</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202503-4002'>CNNVD-202503-4002</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2018-01398'>BDU:2018-01398</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2018-01399'>BDU:2018-01399</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2024-03546'>BDU:2024-03546</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2016-02401'>BDU:2016-02401</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2025-05223'>BDU:2025-05223</a></td>
   </tr>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202503-2842'>CNNVD-202503-2842</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201301-297'>CNNVD-201301-297</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201301-617'>CNNVD-201301-617</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201307-051'>CNNVD-201307-051</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201301-403'>CNNVD-201301-403</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2020-02334'>BDU:2020-02334</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2020-02531'>BDU:2020-02531</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-10052'>BDU:2015-10052</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2016-02406'>BDU:2016-02406</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2025-04373'>BDU:2025-04373</a></td>
   </tr>
 </table>
 
 
-### 致谢
-所有荣誉均归于各个乐谱的维护者。
-如果您有意合作或需要任何帮助，请联系 [sales@arpsyndicate.io](mailto:sales@arpsyndicate.io)。
+### Признание
+Все оценки присуждаются тем, кто их набирает.
+Если вы заинтересованы в сотрудничестве или вам нужна помощь в чем-либо, свяжитесь с нами по адресу [sales@arpsyndicate.io](mailto:sales@arpsyndicate.io).
 
