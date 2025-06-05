@@ -54,39 +54,39 @@
 
 <table>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202504-2022'>CNNVD-202504-2022</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202410-812'>CNNVD-202410-812</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202504-655'>CNNVD-202504-655</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202504-2017'>CNNVD-202504-2017</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202504-652'>CNNVD-202504-652</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202502-731'>CNNVD-202502-731</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202404-3210'>CNNVD-202404-3210</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202401-771'>CNNVD-202401-771</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201012-091'>CNNVD-201012-091</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202401-1140'>CNNVD-202401-1140</a></td>
   </tr>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202504-650'>CNNVD-202504-650</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202504-2015'>CNNVD-202504-2015</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202504-2019'>CNNVD-202504-2019</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202302-1425'>CNNVD-202302-1425</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202504-2023'>CNNVD-202504-2023</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202210-2442'>CNNVD-202210-2442</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202302-1172'>CNNVD-202302-1172</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202210-113'>CNNVD-202210-113</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202411-3082'>CNNVD-202411-3082</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202503-1558'>CNNVD-202503-1558</a></td>
   </tr>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202504-2020'>CNNVD-202504-2020</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202408-599'>CNNVD-202408-599</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202202-1369'>CNNVD-202202-1369</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202502-2447'>CNNVD-202502-2447</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202505-342'>CNNVD-202505-342</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201612-648'>CNNVD-201612-648</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201808-823'>CNNVD-201808-823</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202401-879'>CNNVD-202401-879</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-200909-254'>CNNVD-200909-254</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202401-284'>CNNVD-202401-284</a></td>
   </tr>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202405-2138'>CNNVD-202405-2138</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-200901-418'>CNNVD-200901-418</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-200905-191'>CNNVD-200905-191</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202405-3602'>CNNVD-202405-3602</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202205-2884'>CNNVD-202205-2884</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201403-332'>CNNVD-201403-332</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202401-960'>CNNVD-202401-960</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-201406-700'>CNNVD-201406-700</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202401-713'>CNNVD-202401-713</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-200907-057'>CNNVD-200907-057</a></td>
   </tr>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202503-1244'>CNNVD-202503-1244</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202003-789'>CNNVD-202003-789</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202311-2181'>CNNVD-202311-2181</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202106-1400'>CNNVD-202106-1400</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202106-1398'>CNNVD-202106-1398</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202303-2778'>CNNVD-202303-2778</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202303-2806'>CNNVD-202303-2806</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202303-2772'>CNNVD-202303-2772</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202401-1657'>CNNVD-202401-1657</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202303-1229'>CNNVD-202303-1229</a></td>
   </tr>
 </table>
 
@@ -95,39 +95,39 @@
 
 <table>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202311-285'>CNNVD-202311-285</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202311-289'>CNNVD-202311-289</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202311-290'>CNNVD-202311-290</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202311-288'>CNNVD-202311-288</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202403-1977'>CNNVD-202403-1977</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202406-466'>CNNVD-202406-466</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202504-3538'>CNNVD-202504-3538</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202504-081'>CNNVD-202504-081</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202406-2966'>CNNVD-202406-2966</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202504-1511'>CNNVD-202504-1511</a></td>
   </tr>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202404-3056'>CNNVD-202404-3056</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202405-1255'>CNNVD-202405-1255</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202405-377'>CNNVD-202405-377</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202404-763'>CNNVD-202404-763</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202403-1911'>CNNVD-202403-1911</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202007-589'>CNNVD-202007-589</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202410-3348'>CNNVD-202410-3348</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202212-3458'>CNNVD-202212-3458</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202409-1176'>CNNVD-202409-1176</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202409-1179'>CNNVD-202409-1179</a></td>
   </tr>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202405-390'>CNNVD-202405-390</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202404-211'>CNNVD-202404-211</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202404-1245'>CNNVD-202404-1245</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202404-210'>CNNVD-202404-210</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202405-380'>CNNVD-202405-380</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202409-1178'>CNNVD-202409-1178</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202406-482'>CNNVD-202406-482</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202406-481'>CNNVD-202406-481</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202406-472'>CNNVD-202406-472</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202406-483'>CNNVD-202406-483</a></td>
   </tr>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202404-135'>CNNVD-202404-135</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202404-3650'>CNNVD-202404-3650</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202404-212'>CNNVD-202404-212</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202405-1535'>CNNVD-202405-1535</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202404-2749'>CNNVD-202404-2749</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202505-2060'>CNNVD-202505-2060</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202505-2061'>CNNVD-202505-2061</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202505-2063'>CNNVD-202505-2063</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202505-2059'>CNNVD-202505-2059</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202411-2099'>CNNVD-202411-2099</a></td>
   </tr>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202505-1839'>CNNVD-202505-1839</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202404-628'>CNNVD-202404-628</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202405-1640'>CNNVD-202405-1640</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202404-1032'>CNNVD-202404-1032</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202504-3898'>CNNVD-202504-3898</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202411-2122'>CNNVD-202411-2122</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202505-384'>CNNVD-202505-384</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202411-2127'>CNNVD-202411-2127</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202411-2098'>CNNVD-202411-2098</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=CNNVD-202505-386'>CNNVD-202505-386</a></td>
   </tr>
 </table>
 
